@@ -249,6 +249,8 @@ int main() {
 
 This C code integrates parallelization with OpenMP and the use of FFT to accelerate multiplications in the BBP formula. Although using FFT for multiplications is complex, this approach demonstrates how parallelization and fast multiplication techniques can be used to improve algorithm performance. However, it is important to note that this implementation is a basic version and would require improvements for real-world applications, particularly in terms of memory management and calculation precision.
 
+# Compiling the code
+
 To compile this code, you need to ensure that you have the necessary libraries installed and properly linked during the compilation process. Here are the steps to compile the code:
 
 ### Step 1: Install Required Libraries
